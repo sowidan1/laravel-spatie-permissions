@@ -14,7 +14,7 @@ laravel-spatie-permissions is a Laravel project that utilizes the Spatie Permiss
 
 ## Requirements
 
-- PHP >= 7.4
+- PHP >= 8.2
 - Laravel >= 10
 - Composer installed
 
